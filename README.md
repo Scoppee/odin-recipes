@@ -1,1 +1,1 @@
-# odin-recipes
+This is a recipe website that lists a number of recipe on the home page. When any recipe is clicked, it opens the recipe page where the decription, ingredients, and steps to cook the recipe is displayed. An Image of the recipe is also shown.
